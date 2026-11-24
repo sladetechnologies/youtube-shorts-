@@ -1,0 +1,339 @@
+{
+  "title": "The Village That Sold Tomorrow",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "duration_seconds": 59.8
+  },
+  "look": "2D bean-head stick-limb characters inside true Three.js 3D worlds; warm cinematic storybook lighting; sentence-case word-pop captions",
+  "sets": [
+    {
+      "id": "village_market",
+      "world_x": 0,
+      "description": "Prosperous village square, timber market stalls, stone well, colorful awnings, wheat baskets, layered rooftops and distant hills"
+    },
+    {
+      "id": "mayor_hall",
+      "world_x": 150,
+      "description": "Ornate town hall interior, timber beams, tall windows, brass chandelier, carved desk, ledgers and wall clock"
+    },
+    {
+      "id": "farm_fields",
+      "world_x": 300,
+      "description": "Rolling golden fields, windmill, barns, irrigation channel, wheat bundles and distant mountains"
+    },
+    {
+      "id": "empty_market",
+      "world_x": 450,
+      "description": "Deserted village square at cold dawn, closed stalls, scattered ledgers, dust and abandoned carts"
+    },
+    {
+      "id": "contract_chamber",
+      "world_x": 600,
+      "description": "Giant enclosed archive chamber, towering shelves, floating paper contracts, brass gears and illuminated ledger"
+    }
+  ],
+  "shots": [
+    {
+      "n": 1,
+      "time": [
+        0,
+        2.4
+      ],
+      "set": "village_market",
+      "camera": "low 3/4 push-in",
+      "action": "Villager sells glowing calendar page marked TOMORROW; buyers reach eagerly."
+    },
+    {
+      "n": 2,
+      "time": [
+        2.4,
+        4.5
+      ],
+      "set": "village_market",
+      "camera": "reverse over shoulder",
+      "action": "Coins land in seller's hand as calendar page changes hands."
+    },
+    {
+      "n": 3,
+      "time": [
+        4.5,
+        6.5
+      ],
+      "set": "village_market",
+      "camera": "descending orbit",
+      "action": "Queue trades salary envelopes and harvest tokens."
+    },
+    {
+      "n": 4,
+      "time": [
+        6.5,
+        8.4
+      ],
+      "set": "farm_fields",
+      "camera": "side tracking dolly",
+      "action": "Farmer hands over miniature wheat sheaf for next year's harvest."
+    },
+    {
+      "n": 5,
+      "time": [
+        8.4,
+        10.2
+      ],
+      "set": "mayor_hall",
+      "camera": "low-angle close-up",
+      "action": "Mayor stamps contract with delighted grin."
+    },
+    {
+      "n": 6,
+      "time": [
+        10.2,
+        12
+      ],
+      "set": "village_market",
+      "camera": "drone pullback",
+      "action": "Shops rise, awnings spread, square fills with celebration."
+    },
+    {
+      "n": 7,
+      "time": [
+        12,
+        13.8
+      ],
+      "set": "village_market",
+      "camera": "fast 3/4 orbit",
+      "action": "Party lights glow; villagers dance as coins cascade into fountain."
+    },
+    {
+      "n": 8,
+      "time": [
+        13.8,
+        15.5
+      ],
+      "set": "mayor_hall",
+      "camera": "tight push-in",
+      "action": "Mayor laughs; dark shadow crosses his smile."
+    },
+    {
+      "n": 9,
+      "time": [
+        15.5,
+        17.4
+      ],
+      "set": "mayor_hall",
+      "camera": "top-down plunge",
+      "action": "Villager reaches for sold contract; brass lock snaps shut."
+    },
+    {
+      "n": 10,
+      "time": [
+        17.4,
+        19.2
+      ],
+      "set": "farm_fields",
+      "camera": "wide crane",
+      "action": "Farmers hand over last sheaves; empty fields behind."
+    },
+    {
+      "n": 11,
+      "time": [
+        19.2,
+        21
+      ],
+      "set": "mayor_hall",
+      "camera": "tracking close-up",
+      "action": "Workers slide salary envelopes across desk, pockets empty."
+    },
+    {
+      "n": 12,
+      "time": [
+        21,
+        23
+      ],
+      "set": "mayor_hall",
+      "camera": "descending orbit",
+      "action": "Mayor signs ten years of taxes; calendar pages unroll."
+    },
+    {
+      "n": 13,
+      "time": [
+        23,
+        24.8
+      ],
+      "set": "empty_market",
+      "camera": "wide pullback",
+      "action": "At dawn, market stalls stand bare and silent."
+    },
+    {
+      "n": 14,
+      "time": [
+        24.8,
+        26.5
+      ],
+      "set": "farm_fields",
+      "camera": "low tracking",
+      "action": "Loose cart wheel rolls past abandoned fields and broken scarecrow."
+    },
+    {
+      "n": 15,
+      "time": [
+        26.5,
+        28.2
+      ],
+      "set": "empty_market",
+      "camera": "slow 360 orbit",
+      "action": "Empty square; one paper receipt tumbles across cobbles."
+    },
+    {
+      "n": 16,
+      "time": [
+        28.2,
+        30
+      ],
+      "set": "mayor_hall",
+      "camera": "over-shoulder dolly",
+      "action": "Mayor enters silent town hall; old contract drawer ajar."
+    },
+    {
+      "n": 17,
+      "time": [
+        30,
+        31.8
+      ],
+      "set": "contract_chamber",
+      "camera": "top-down plunge",
+      "action": "Drawer opens into vast chamber of contracts and ledgers."
+    },
+    {
+      "n": 18,
+      "time": [
+        31.8,
+        33.6
+      ],
+      "set": "contract_chamber",
+      "camera": "forward dolly",
+      "action": "Brittle parchment unfolds; wax seals catch the light."
+    },
+    {
+      "n": 19,
+      "time": [
+        33.6,
+        35.4
+      ],
+      "set": "contract_chamber",
+      "camera": "macro orbit",
+      "action": "Gold threads connect future payments to buyers' names."
+    },
+    {
+      "n": 20,
+      "time": [
+        35.4,
+        37.2
+      ],
+      "set": "contract_chamber",
+      "camera": "descending orbit",
+      "action": "Salary envelopes and harvest tokens flow along brass channels."
+    },
+    {
+      "n": 21,
+      "time": [
+        37.2,
+        39
+      ],
+      "set": "mayor_hall",
+      "camera": "reverse close-up",
+      "action": "Mayor's own salary envelope pulled from desk."
+    },
+    {
+      "n": 22,
+      "time": [
+        39,
+        40.8
+      ],
+      "set": "mayor_hall",
+      "camera": "slow push-in",
+      "action": "Mayor's grin vanishes; hands empty."
+    },
+    {
+      "n": 23,
+      "time": [
+        40.8,
+        42.6
+      ],
+      "set": "empty_market",
+      "camera": "drone ascent",
+      "action": "Once-rich village looks hollow and still from above."
+    },
+    {
+      "n": 24,
+      "time": [
+        42.6,
+        44.4
+      ],
+      "set": "farm_fields",
+      "camera": "wide side dolly",
+      "action": "Wind moves through abandoned fields; no harvesters remain."
+    },
+    {
+      "n": 25,
+      "time": [
+        44.4,
+        46.2
+      ],
+      "set": "contract_chamber",
+      "camera": "top-down plunge",
+      "action": "Final page reveals every future payment already assigned."
+    },
+    {
+      "n": 26,
+      "time": [
+        46.2,
+        48
+      ],
+      "set": "empty_market",
+      "camera": "slow push-in",
+      "action": "Village colors drain into muted dawn tones."
+    },
+    {
+      "n": 27,
+      "time": [
+        48,
+        50
+      ],
+      "set": "mayor_hall",
+      "camera": "close-up pullback",
+      "action": "Mayor stands alone beneath huge wall clock."
+    },
+    {
+      "n": 28,
+      "time": [
+        50,
+        52
+      ],
+      "set": "empty_market",
+      "camera": "street-level tracking",
+      "action": "Empty square waits as sun rises beyond rooftops."
+    },
+    {
+      "n": 29,
+      "time": [
+        52,
+        55
+      ],
+      "set": "empty_market",
+      "camera": "drone pullback",
+      "action": "Clock strikes; last calendar page flips forward."
+    },
+    {
+      "n": 30,
+      "time": [
+        55,
+        59.8
+      ],
+      "set": "empty_market",
+      "camera": "very wide aerial ascent",
+      "action": "Camera rises above silent village as final empty calendar page drifts skyward."
+    }
+  ]
+}
